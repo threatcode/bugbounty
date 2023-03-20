@@ -8,8 +8,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/goflags v0.1.8
 	github.com/projectdiscovery/httpx v1.2.8
-	github.com/projectdiscovery/utils v0.0.15
-	github.com/stretchr/testify v1.8.2
+	github.com/projectdiscovery/utils v0.0.17
 	github.com/tidwall/gjson v1.14.4
 	golang.org/x/net v0.8.0
 )
@@ -36,7 +35,6 @@ require (
 	github.com/cockroachdb/pebble v0.0.0-20230224221607-fccb83b60d5c // indirect
 	github.com/cockroachdb/redact v1.1.3 // indirect
 	github.com/corpix/uarand v0.2.0 // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
@@ -68,7 +66,6 @@ require (
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/pierrec/lz4 v2.6.0+incompatible // indirect
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/projectdiscovery/asnmap v1.0.1 // indirect
 	github.com/projectdiscovery/blackrock v0.0.0-20221025011524-9e4efe804fb4 // indirect
 	github.com/projectdiscovery/cdncheck v0.0.4-0.20220413175814-b47bc2d578b1 // indirect
@@ -120,7 +117,7 @@ require (
 	github.com/zmap/zcrypto v0.0.0-20230205235340-d51ce4775101 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
-	golang.org/x/crypto v0.5.0 // indirect
+	golang.org/x/crypto v0.7.0 // indirect
 	golang.org/x/exp v0.0.0-20230224173230-c95f2b4c22f2 // indirect
 	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect
