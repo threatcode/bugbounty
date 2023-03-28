@@ -2324,6 +2324,16 @@
       ]
     },
     {
+      "name": "Fastly VDP",
+      "url": "https://hackerone.com/fastly-vdp",
+      "bounty": false,
+      "swag": false,
+      "domains": [
+        "signalsciences.com",
+        "fanout.io"
+      ]
+    },
+    {
       "name": "Fetlife",
       "url": "https://hackerone.com/fetlife",
       "bounty": true,
@@ -4100,6 +4110,17 @@
       "domains": [
         "greenhouse.events",
         "greenhouse.io"
+      ]
+    },
+    {
+      "name": "Grindr",
+      "url": "https://hackerone.com/grindr",
+      "bounty": true,
+      "swag": false,
+      "domains": [
+        "grindr.io",
+        "grindr.com",
+        "grindr.mobi"
       ]
     },
     {
@@ -7536,14 +7557,6 @@
       ]
     },
     {
-      "name": "Starleaf",
-      "url": "https://www.starleaf.com/c/bug-bounty-program/",
-      "bounty": true,
-      "domains": [
-        "starleaf.com"
-      ]
-    },
-    {
       "name": "Starling Bank Limited",
       "url": "https://hackerone.com/starling_bank",
       "bounty": false,
@@ -9372,26 +9385,6 @@
         "zoom.us"
       ]
     },
-     {
-        "name":"Fastly VDP",
-        "url":"https://hackerone.com/fastly-vdp",
-        "bounty": false,
-        "swag": false,
-        "domains":[
-           "signalsciences.com",
-           "fanout.io"
-        ]
-     },
-     {
-        "name":"Grindr",
-        "url":"https://hackerone.com/grindr",
-        "bounty": true,
-        "swag": false,
-        "domains":[
-           "grindr.io",
-           "grindr.com",
-           "grindr.mobi"
-        ]
     {
       "name": "Zynga",
       "url": "https://www.zynga.com/security/whitehats/",
