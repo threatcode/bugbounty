@@ -9,7 +9,7 @@ require (
 	github.com/projectdiscovery/goflags v0.1.11
 	github.com/projectdiscovery/httpx v1.3.3
 	github.com/projectdiscovery/utils v0.0.40-0.20230627061640-8ec2b35f851c
-	github.com/tidwall/gjson v1.14.4
+	github.com/tidwall/gjson v1.16.0
 	golang.org/x/net v0.11.0
 )
 
