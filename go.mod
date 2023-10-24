@@ -8,8 +8,8 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/goflags v0.1.25
 	github.com/projectdiscovery/httpx v1.3.3
-	github.com/projectdiscovery/utils v0.0.58
-	github.com/tidwall/gjson v1.14.4
+	github.com/projectdiscovery/utils v0.0.57
+	github.com/tidwall/gjson v1.17.0
 	golang.org/x/net v0.17.0
 )
 
