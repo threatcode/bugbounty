@@ -9,8 +9,8 @@ require (
 	github.com/projectdiscovery/goflags v0.1.20
 	github.com/projectdiscovery/httpx v1.3.5
 	github.com/projectdiscovery/utils v0.0.57
-	github.com/tidwall/gjson v1.14.4
-	golang.org/x/net v0.14.0
+	github.com/tidwall/gjson v1.17.0
+	golang.org/x/net v0.17.0
 )
 
 require (
