@@ -6,11 +6,11 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/go-git/go-git/v5 v5.9.0
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/goflags v0.1.20
+	github.com/projectdiscovery/goflags v0.1.28
 	github.com/projectdiscovery/httpx v1.3.5
-	github.com/projectdiscovery/utils v0.0.57
+	github.com/projectdiscovery/utils v0.0.63
 	github.com/tidwall/gjson v1.17.0
-	golang.org/x/net v0.15.0
+	golang.org/x/net v0.17.0
 )
 
 require (
@@ -77,7 +77,7 @@ require (
 	github.com/mholt/archiver v3.1.1+incompatible // indirect
 	github.com/microcosm-cc/bluemonday v1.0.25 // indirect
 	github.com/miekg/dns v1.1.55 // indirect
-	github.com/minio/selfupdate v0.6.0 // indirect
+	github.com/minio/selfupdate v0.6.1-0.20230907112617-f11e74f84ca7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
@@ -99,7 +99,7 @@ require (
 	github.com/projectdiscovery/goconfig v0.0.1 // indirect
 	github.com/projectdiscovery/gologger v1.1.11 // indirect
 	github.com/projectdiscovery/gostruct v0.0.1 // indirect
-	github.com/projectdiscovery/hmap v0.0.16 // indirect
+	github.com/projectdiscovery/hmap v0.0.24 // indirect
 	github.com/projectdiscovery/mapcidr v1.1.2 // indirect
 	github.com/projectdiscovery/networkpolicy v0.0.6 // indirect
 	github.com/projectdiscovery/ratelimit v0.0.9 // indirect
@@ -149,11 +149,11 @@ require (
 	github.com/zmap/zcrypto v0.0.0-20230422215203-9a665e1e9968 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.13.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/exp v0.0.0-20230810033253-352e893a4cad // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/oauth2 v0.11.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
