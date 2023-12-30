@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
-	github.com/go-git/go-git/v5 v5.9.0
+	github.com/go-git/go-git/v5 v5.11.0
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/goflags v0.1.31
 	github.com/projectdiscovery/httpx v1.3.5
@@ -24,7 +24,6 @@ require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
-	github.com/acomagu/bufpipe v1.0.4 // indirect
 	github.com/akrylysov/pogreb v0.10.1 // indirect
 	github.com/alecthomas/chroma v0.10.0 // indirect
 	github.com/andybalholm/brotli v1.0.6 // indirect
@@ -119,7 +118,7 @@ require (
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/shirou/gopsutil/v3 v3.23.7 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
-	github.com/skeema/knownhosts v1.2.0 // indirect
+	github.com/skeema/knownhosts v1.2.1 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
