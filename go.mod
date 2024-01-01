@@ -8,7 +8,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/goflags v0.1.31
 	github.com/projectdiscovery/httpx v1.3.5
-	github.com/projectdiscovery/utils v0.0.69
+	github.com/projectdiscovery/utils v0.0.70
 	github.com/tidwall/gjson v1.17.0
 	golang.org/x/net v0.19.0
 )
@@ -99,7 +99,7 @@ require (
 	github.com/projectdiscovery/goconfig v0.0.1 // indirect
 	github.com/projectdiscovery/gologger v1.1.12 // indirect
 	github.com/projectdiscovery/gostruct v0.0.1 // indirect
-	github.com/projectdiscovery/hmap v0.0.30 // indirect
+	github.com/projectdiscovery/hmap v0.0.31 // indirect
 	github.com/projectdiscovery/mapcidr v1.1.2 // indirect
 	github.com/projectdiscovery/networkpolicy v0.0.6 // indirect
 	github.com/projectdiscovery/ratelimit v0.0.9 // indirect
