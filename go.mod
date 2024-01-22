@@ -6,7 +6,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/goflags v0.1.35
+	github.com/projectdiscovery/goflags v0.1.36
 	github.com/projectdiscovery/httpx v1.3.5
 	github.com/projectdiscovery/utils v0.0.73
 	github.com/tidwall/gjson v1.14.4
