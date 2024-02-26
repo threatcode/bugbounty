@@ -6,9 +6,9 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/goflags v0.1.39
+	github.com/projectdiscovery/goflags v0.1.41
 	github.com/projectdiscovery/httpx v1.4.0
-	github.com/projectdiscovery/utils v0.0.78
+	github.com/projectdiscovery/utils v0.0.79
 	github.com/tidwall/gjson v1.17.0
 	golang.org/x/net v0.21.0
 )
@@ -98,7 +98,7 @@ require (
 	github.com/projectdiscovery/goconfig v0.0.1 // indirect
 	github.com/projectdiscovery/gologger v1.1.12 // indirect
 	github.com/projectdiscovery/gostruct v0.0.2 // indirect
-	github.com/projectdiscovery/hmap v0.0.37 // indirect
+	github.com/projectdiscovery/hmap v0.0.38 // indirect
 	github.com/projectdiscovery/mapcidr v1.1.16 // indirect
 	github.com/projectdiscovery/networkpolicy v0.0.7 // indirect
 	github.com/projectdiscovery/ratelimit v0.0.27 // indirect
